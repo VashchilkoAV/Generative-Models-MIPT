@@ -3,3 +3,4 @@
 *.npy*
 *.zip
 data/
+.DS_Store
